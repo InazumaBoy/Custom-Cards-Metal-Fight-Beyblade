@@ -7,8 +7,12 @@ A place where i dump all things related to my work with Custom Cards for EdoPro 
 # Content
 # 0.1.1
 18 cards based in the Manga Series before Gingka meet Kenta:
+
   4 Xyz Monsters based in Major Characthers from Metal Fight Anime & Manga
+  
   14 Effect Monsters based in the Bey Components from real life and Anime & Manga
+
+
 
 # How to Use
   Download the folder with files
